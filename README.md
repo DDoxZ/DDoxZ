@@ -21,8 +21,6 @@ OS <br>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev) <br>
 
-![](https://komarev.com/ghpvc/?username=DDoxZ&style=for-the-badge&color=blue&abbreviated=true)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DDoxZ/DDoxZ/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DDoxZ/DDoxZ/output/github-snake.svg" />
