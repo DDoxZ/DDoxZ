@@ -3,7 +3,7 @@
 
 📖 Computer Science and Engineering Student at FCUL <br>
 
-🔭 Currently working on Distributed Systems, Cybersecurity and GameDev projects <br>
+🔭 Currently working on Software Development, Distributed Systems, Cybersecurity and GameDev projects <br>
 
 🌱 Learning RUST
 
