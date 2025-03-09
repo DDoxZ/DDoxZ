@@ -11,7 +11,7 @@
 
 Programming Languages <br>
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,rust,python,mysql,js,html,css,haskell)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,mysql,js,html,css,haskell)](https://skillicons.dev) <br>
 
 Tools <br>
 
