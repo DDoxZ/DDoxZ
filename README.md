@@ -5,7 +5,7 @@
 
 🔭 Currently working on Software Development, Distributed Systems, Cybersecurity and GameDev projects <br>
 
-🌱 Learning RUST
+🌱 Learning Maven, Spring Boot, JPA, MEAN Stack
 
 # Tech Stack
 
