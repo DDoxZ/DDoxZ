@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=35&duration=3000&pause=1000&color=007EC6&vCenter=true&width=435&lines=Hello+There!+👋;Welcome+to+my+github!)](https://git.io/typing-svg)
 # Diogo Lopes
 
-📖 Computer Science and Engineering Student at FCUL <br>
+📖 Msc Computer Science and Engineering Student @ IST specializing in Cybersecurity and Distributed Systems <br>
 
-🔭 Currently working on Software Development, Distributed Systems, Cybersecurity and GameDev projects <br>
+🔭 Currently working on Cybersecurity, Distributed Systems, Software Development and GameDev projects <br>
 
-🌱 Learning Maven, Spring Boot, JPA, MEAN Stack
+🌱 Learning everything Cybersecurity and Distributed Systems related I can get my hands on
 
 # Tech Stack
 
